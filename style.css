@@ -134,3 +134,11 @@ ul{
 .body-3 p{
     margin: 0px;
 }
+
+#Thor{
+    text-align: end;
+    width: 450px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 800;
+}
