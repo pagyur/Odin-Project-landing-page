@@ -93,3 +93,11 @@ ul{
     display: flex;
     color: gray;
 }
+
+.body-2 img{
+    border-width: 5px;
+    border-radius: 8px;
+    border-color: #3882F6;
+    height: 200px;
+    width: 200px;
+}
