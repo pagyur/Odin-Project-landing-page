@@ -44,12 +44,12 @@ ul{
 }
 
 .body-1 img{
-    height: 150px;
+    height: 200px;
     width: auto;
 }
 
 .body-1 div{
-    height: 150px;
+    height: 200px;
     width: 300px;
     margin:0
 }
@@ -57,7 +57,11 @@ ul{
 .body-1 div button{
     border: solid;
     background-color: #3882F6;
-    border-radius: 12px;
+    border-radius: 8px;
     border-color: #3882F6;
     color: #F9FAF8;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
