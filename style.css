@@ -10,7 +10,11 @@ body{
     padding-left: 400px;
     padding-right: 400px;
 }
+.logo{
+    size: 24px;
+}
 ul{
+    size: 18px;
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
@@ -27,13 +31,13 @@ ul{
 }
 
 .body-1 h1{
-    size: 4rem;
     margin:0px;
     color: #F9FAF8;
+    size: 48px;
 }
 
 .body-1 p{
-   size: 2rem;
+   size: 18px;
    margin:0px;
     color:#E5E7EB;
 }
