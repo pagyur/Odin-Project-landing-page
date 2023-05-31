@@ -41,15 +41,16 @@ ul{
    font-size: 18px;
    margin:0px;
     color:#E5E7EB;
+    margin-bottom: 5px;
 }
 
 .body-1 img{
-    height: 200px;
+    height: 210px;
     width: auto;
 }
 
 .body-1 div{
-    height: 200px;
+    height: 210px;
     width: 300px;
     margin:0
 }
