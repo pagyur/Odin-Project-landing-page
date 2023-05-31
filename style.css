@@ -19,9 +19,11 @@ ul{
 }
 .body-1{
     display: flex;
-    margin: 0;
+    padding-top: 60px;
+    padding-bottom: 60px;
     padding-left: 200px;
     padding-right: 200px;
+    justify-content: space-between;
 }
 
 .body-1 h1{
