@@ -173,3 +173,8 @@ ul{
     padding-top: 4px;
     padding-bottom: 4px;
 }
+
+.body-4 h3,
+.body-4 p{
+    margin: 0px;
+}
