@@ -152,3 +152,9 @@ ul{
     padding-left: 400px;
     padding-right: 400px;
 }
+
+.body-4 .container{
+    background-color: #3882F6;
+    border-radius: 12px;
+    display: flex;
+}
