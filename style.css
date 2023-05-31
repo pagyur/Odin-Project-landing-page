@@ -28,12 +28,13 @@ ul{
 
 .body-1 h1{
     size: 4rem;
-    margin:0
+    margin:0px;
 }
 
 .body-1 p{
    size: 2rem;
-   margin:0
+   margin:0px;
+
 }
 
 .body-1 img{
