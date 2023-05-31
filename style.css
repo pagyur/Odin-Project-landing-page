@@ -109,3 +109,7 @@ ul{
 .body-2 .img-descr{
     width: 206px;
 }
+
+.body-2 p{
+    margin:0px;
+}
