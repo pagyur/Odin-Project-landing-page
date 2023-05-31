@@ -3,6 +3,9 @@ body{
     color: #F9FAF8;
     margin: 0px;
 }
+
+/*header*/
+
 .header{
     display: flex;
     justify-content: space-between;
@@ -21,6 +24,9 @@ ul{
     padding: 0;
     gap: 16px;
 }
+
+/*body-1*/
+
 .body-1{
     display: flex;
     padding-top: 60px;
@@ -66,3 +72,5 @@ ul{
     padding-top: 4px;
     padding-bottom: 4px;
 }
+
+/*body-2*/
