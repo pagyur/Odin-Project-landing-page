@@ -92,6 +92,8 @@ ul{
 .body-2 .container{
     display: flex;
     color: gray;
+    justify-content: space-around;
+    text-align: center;
 }
 
 .body-2 img{
