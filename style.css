@@ -129,6 +129,8 @@ ul{
 .body-3 div{
     color: black;
     width: 500px;
+    font-size: 36px;
+    font-style: light italic;
 }
 
 .body-3 p{
