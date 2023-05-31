@@ -55,6 +55,7 @@ ul{
 }
 
 .body-1 div button{
+    border: solid;
     background-color: #3882F6;
     border-radius: 12px;
     border-color: #3882F6;
