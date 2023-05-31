@@ -96,6 +96,7 @@ ul{
 
 .body-2 img{
     border-width: 5px;
+    border: solid;
     border-radius: 8px;
     border-color: #3882F6;
     height: 200px;
