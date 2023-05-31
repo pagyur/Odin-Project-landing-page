@@ -122,5 +122,11 @@ ul{
     padding: 50px;
     padding-left: 400px;
     padding-right: 400px;
-    
+    display: flex;
+    justify-content: center;
+}
+
+.body-3 div{
+    color: black;
+    width: 500px;
 }
