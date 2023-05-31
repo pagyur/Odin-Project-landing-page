@@ -1,6 +1,6 @@
 body{
-    background-color: #051f57;
-    color: white;
+    background-color: #1F2937;
+    color: #F9FAF8;
     margin: 0px;
 }
 .header{
@@ -29,12 +29,13 @@ ul{
 .body-1 h1{
     size: 4rem;
     margin:0px;
+    color: #F9FAF8;
 }
 
 .body-1 p{
    size: 2rem;
    margin:0px;
-    color:azure;
+    color:#E5E7EB;
 }
 
 .body-1 img{
