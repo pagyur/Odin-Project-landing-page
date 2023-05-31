@@ -88,3 +88,7 @@ ul{
     color: #1F2937;
     text-align: center;
 }
+
+.body-2 .container{
+    display: flex;
+}
