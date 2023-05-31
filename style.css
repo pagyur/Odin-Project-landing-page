@@ -23,3 +23,7 @@ ul{
     padding-left: 200px;
     padding-right: 200px;
 }
+
+.body-1 h1{
+    size: 2rem;
+}
