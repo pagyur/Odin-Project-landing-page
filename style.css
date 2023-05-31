@@ -179,3 +179,10 @@ ul{
 .body-4 p{
     margin: 0px;
 }
+
+/*Footer*/
+
+footer{
+    padding: 50px 400px;
+    text-align: center;
+}
