@@ -11,10 +11,10 @@ body{
     padding-right: 400px;
 }
 .logo{
-    size: 24px;
+    font-size: 24px;
 }
 ul{
-    size: 18px;
+    font-size: 18px;    
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
@@ -33,11 +33,12 @@ ul{
 .body-1 h1{
     margin:0px;
     color: #F9FAF8;
-    size: 48px;
+    font-size: 48px;
+    font-weight: 800;
 }
 
 .body-1 p{
-   size: 18px;
+   font-size: 18px;
    margin:0px;
     color:#E5E7EB;
 }
