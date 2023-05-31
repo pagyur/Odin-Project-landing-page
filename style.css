@@ -1,13 +1,14 @@
 body{
     background-color: #051f57;
     color: white;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin: 0px;
 }
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 ul{
     list-style-type: none;
@@ -17,6 +18,8 @@ ul{
     gap: 8px;
 }
 .body-1{
-    background-color: white;
-    color: #051f57;
+    display: flex;
+    margin: 0;
+    padding-left: 200px;
+    padding-right: 200px;
 }
