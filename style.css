@@ -52,3 +52,10 @@ ul{
     width: 300px;
     margin:0
 }
+
+.body-1 div button{
+    background-color: #3882F6;
+    border-radius: 12px;
+    border-color: #3882F6;
+    color: #F9FAF8;
+}
